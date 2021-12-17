@@ -1,2 +1,1 @@
-# lang.c
-Language C code
+# Language C code
